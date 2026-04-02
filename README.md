@@ -38,17 +38,3 @@ The analysis shows that the West region generates the highest sales, while the T
 
 This project demonstrates my ability to work with data, build dashboards, and extract meaningful insights. It reflects my skills as an entry-level data analyst and my interest in data-driven problem solving.
 
- Files Included
-
-* Power BI dashboard file (.pbix)
-* Dataset used for analysis (.csv)
-* Screenshot of the final dashboard
-
- Dashboard Preview
-
-<img width="908" height="506" alt="image" src="https://github.com/user-attachments/assets/87de0f69-bd89-42c7-9246-6139e013c85f" />
-
-
- Purpose
-
-This project showcases my ability to work with data, build dashboards, and extract useful insights. It reflects my skills as an entry-level data analyst and my interest in data-driven problem solving.
