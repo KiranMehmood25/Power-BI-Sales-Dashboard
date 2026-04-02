@@ -31,7 +31,8 @@ From the analysis, I found that the West region generates the highest sales, whi
 
 ## 📸 Dashboard Preview
 
-![Dashboard](dashboard.png)
+<img width="908" height="506" alt="image" src="https://github.com/user-attachments/assets/87de0f69-bd89-42c7-9246-6139e013c85f" />
+
 
 ## 🚀 Purpose
 
