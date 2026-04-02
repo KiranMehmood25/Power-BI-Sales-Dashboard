@@ -36,5 +36,6 @@ The analysis shows that the West region generates the highest sales, while the T
 
 **Purpose**
 
-This project demonstrates my ability to work with data, build dashboards, and extract meaningful insights. It reflects my skills as an entry-level data analyst and my interest in data-driven problem solving.
+This project demonstrates my ability to work with data, build dashboards, and extract meaningful insights. It reflects my skills as an
+data analyst and my interest in data-driven problem solving.
 
