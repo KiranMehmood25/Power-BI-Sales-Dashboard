@@ -1,41 +1,42 @@
-**Sales Performance Dashboard (Power BI)**
+# Sales Performance Dashboard (Power BI)
 
-**Project Overview**
+## Project Overview
 
-This project involves the development of an interactive Power BI dashboard to analyze sales performance using a retail dataset. The objective was to transform raw data into meaningful insights that support business understanding and decision-making.
+This project presents an interactive Power BI dashboard developed to analyze sales performance using a retail dataset. The aim is to transform raw data into meaningful insights that help understand business trends and support data-driven decision-making.
 
-**Key Features**
+## Key Features
 
-* Developed KPI cards to monitor Total Sales, Profit, and Orders
-* Created a monthly sales trend to analyze performance over time
-* Performed regional and category-wise sales analysis
-* Implemented interactive filters for better data exploration
-* Highlighted key insights to support data-driven decisions
+- Developed KPI cards to track Total Sales, Total Profit, Total Orders, and Profit Margin
+- Built a monthly sales trend to analyze performance over time
+- Performed regional and category-wise sales analysis
+- Implemented interactive filters (Region, Category) for dynamic data exploration
+- Added business insights to highlight key performance trends
 
-**Tools Used**
+## Tools Used
 
-* Power BI
-* DAX (Data Analysis Expressions)
-* Data Cleaning and Transformation
-* Data Visualization
+- Power BI
+- DAX (Data Analysis Expressions)
+- Data Cleaning and Transformation
+- Data Visualization
 
-**Key Insight**
+## Dashboard Insights
 
-The analysis shows that the West region generates the highest sales, while the Technology category demonstrates the strongest overall performance.
+- The West region generates the highest sales performance
+- The Technology category contributes the most to overall sales
+- Sales trends fluctuate over time across different categories
+- Profit Margin helps evaluate overall business efficiency
 
-**Files Included**
+## Files Included
 
-* Power BI dashboard file (.pbix)
-* Dataset used for analysis (.csv)
-* Screenshot of the final dashboard
+- Power BI Dashboard (`.pbix`)
+- Dataset (`.csv`)
+- Dashboard Screenshot (`.png`)
 
-**Dashboard Preview**
+## Dashboard Preview
 
-<img width="908" height="506" alt="image" src="https://github.com/user-attachments/assets/724fd559-aee6-4702-b2f9-bb7df8a07d7a" />
+<img width="918" height="508" alt="image" src="https://github.com/user-attachments/assets/1a0e8466-af5b-4195-8e7a-1e0774be98a8" />
 
 
-**Purpose**
+## Purpose
 
-This project demonstrates my ability to work with data, build dashboards, and extract meaningful insights. It reflects my skills as an
-data analyst and my interest in data-driven problem solving.
-
+This project demonstrates my ability to analyze data, build interactive dashboards, and extract actionable insights. It reflects my skills as an entry-level data analyst and my ability to work with real-world business data.
